@@ -1,0 +1,6 @@
+*.pyc
+packaging/windows/build
+packaging/windows/temp
+pyplane/library/tmp.ppf
+pyplane/config/logmessages.txt
+.idea
