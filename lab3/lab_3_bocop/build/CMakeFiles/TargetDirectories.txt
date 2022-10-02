@@ -1,0 +1,4 @@
+C:/Bocop-2.2.1/examples/lab_3_bocop/build/CMakeFiles/CORE.dir
+C:/Bocop-2.2.1/examples/lab_3_bocop/build/CMakeFiles/edit_cache.dir
+C:/Bocop-2.2.1/examples/lab_3_bocop/build/CMakeFiles/bocop.dir
+C:/Bocop-2.2.1/examples/lab_3_bocop/build/CMakeFiles/rebuild_cache.dir
