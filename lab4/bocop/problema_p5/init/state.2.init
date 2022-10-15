@@ -1,6 +1,6 @@
 # Starting point file.
 # This file contains the values of the initial points
-# for variable z
+# for variable state #2
 
 # Type of initialization :
 constant

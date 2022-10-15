@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Bocop-2.2.1/examples/lab4/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/github/MA4703/lab4/bocop/problema_p4/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

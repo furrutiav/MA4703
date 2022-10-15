@@ -46,7 +46,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /C/Bocop-2.2.1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /C/Bocop-2.2.1/examples/lab4/build
+CMAKE_BINARY_DIR = /D/github/MA4703/lab4/bocop/problema_p4/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CORE.dir/depend.make
@@ -59,8 +59,8 @@ include CMakeFiles/CORE.dir/flags.make
 
 CMakeFiles/CORE.dir/core/sources/IO/readDefinition.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/IO/readDefinition.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/IO/readDefinition.cpp.obj: ../../../core/sources/IO/readDefinition.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CORE.dir/core/sources/IO/readDefinition.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/IO/readDefinition.cpp.obj: C:/Bocop-2.2.1/core/sources/IO/readDefinition.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CORE.dir/core/sources/IO/readDefinition.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/IO/readDefinition.cpp.obj -c /C/Bocop-2.2.1/core/sources/IO/readDefinition.cpp
 
 CMakeFiles/CORE.dir/core/sources/IO/readDefinition.cpp.i: cmake_force
@@ -84,8 +84,8 @@ CMakeFiles/CORE.dir/core/sources/IO/readDefinition.cpp.obj.provides.build: CMake
 
 CMakeFiles/CORE.dir/core/sources/IO/writeDefinition.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/IO/writeDefinition.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/IO/writeDefinition.cpp.obj: ../../../core/sources/IO/writeDefinition.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CORE.dir/core/sources/IO/writeDefinition.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/IO/writeDefinition.cpp.obj: C:/Bocop-2.2.1/core/sources/IO/writeDefinition.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CORE.dir/core/sources/IO/writeDefinition.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/IO/writeDefinition.cpp.obj -c /C/Bocop-2.2.1/core/sources/IO/writeDefinition.cpp
 
 CMakeFiles/CORE.dir/core/sources/IO/writeDefinition.cpp.i: cmake_force
@@ -109,8 +109,8 @@ CMakeFiles/CORE.dir/core/sources/IO/writeDefinition.cpp.obj.provides.build: CMak
 
 CMakeFiles/CORE.dir/core/sources/IO/writeSolution.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/IO/writeSolution.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/IO/writeSolution.cpp.obj: ../../../core/sources/IO/writeSolution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CORE.dir/core/sources/IO/writeSolution.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/IO/writeSolution.cpp.obj: C:/Bocop-2.2.1/core/sources/IO/writeSolution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CORE.dir/core/sources/IO/writeSolution.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/IO/writeSolution.cpp.obj -c /C/Bocop-2.2.1/core/sources/IO/writeSolution.cpp
 
 CMakeFiles/CORE.dir/core/sources/IO/writeSolution.cpp.i: cmake_force
@@ -134,8 +134,8 @@ CMakeFiles/CORE.dir/core/sources/IO/writeSolution.cpp.obj.provides.build: CMakeF
 
 CMakeFiles/CORE.dir/core/sources/ipopt/BocopDefinition.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/ipopt/BocopDefinition.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/ipopt/BocopDefinition.cpp.obj: ../../../core/sources/ipopt/BocopDefinition.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CORE.dir/core/sources/ipopt/BocopDefinition.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/ipopt/BocopDefinition.cpp.obj: C:/Bocop-2.2.1/core/sources/ipopt/BocopDefinition.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CORE.dir/core/sources/ipopt/BocopDefinition.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/ipopt/BocopDefinition.cpp.obj -c /C/Bocop-2.2.1/core/sources/ipopt/BocopDefinition.cpp
 
 CMakeFiles/CORE.dir/core/sources/ipopt/BocopDefinition.cpp.i: cmake_force
@@ -159,8 +159,8 @@ CMakeFiles/CORE.dir/core/sources/ipopt/BocopDefinition.cpp.obj.provides.build: C
 
 CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeBatch.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeBatch.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeBatch.cpp.obj: ../../../core/sources/ipopt/BocopOptimizeBatch.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeBatch.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeBatch.cpp.obj: C:/Bocop-2.2.1/core/sources/ipopt/BocopOptimizeBatch.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeBatch.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeBatch.cpp.obj -c /C/Bocop-2.2.1/core/sources/ipopt/BocopOptimizeBatch.cpp
 
 CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeBatch.cpp.i: cmake_force
@@ -184,8 +184,8 @@ CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeBatch.cpp.obj.provides.build
 
 CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimize.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimize.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimize.cpp.obj: ../../../core/sources/ipopt/BocopOptimize.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimize.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimize.cpp.obj: C:/Bocop-2.2.1/core/sources/ipopt/BocopOptimize.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimize.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimize.cpp.obj -c /C/Bocop-2.2.1/core/sources/ipopt/BocopOptimize.cpp
 
 CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimize.cpp.i: cmake_force
@@ -209,8 +209,8 @@ CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimize.cpp.obj.provides.build: CMa
 
 CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeSingle.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeSingle.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeSingle.cpp.obj: ../../../core/sources/ipopt/BocopOptimizeSingle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeSingle.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeSingle.cpp.obj: C:/Bocop-2.2.1/core/sources/ipopt/BocopOptimizeSingle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeSingle.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeSingle.cpp.obj -c /C/Bocop-2.2.1/core/sources/ipopt/BocopOptimizeSingle.cpp
 
 CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeSingle.cpp.i: cmake_force
@@ -234,8 +234,8 @@ CMakeFiles/CORE.dir/core/sources/ipopt/BocopOptimizeSingle.cpp.obj.provides.buil
 
 CMakeFiles/CORE.dir/core/sources/nlp/BocopProblem.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/nlp/BocopProblem.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/nlp/BocopProblem.cpp.obj: ../../../core/sources/nlp/BocopProblem.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/BocopProblem.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/nlp/BocopProblem.cpp.obj: C:/Bocop-2.2.1/core/sources/nlp/BocopProblem.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/BocopProblem.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/nlp/BocopProblem.cpp.obj -c /C/Bocop-2.2.1/core/sources/nlp/BocopProblem.cpp
 
 CMakeFiles/CORE.dir/core/sources/nlp/BocopProblem.cpp.i: cmake_force
@@ -259,8 +259,8 @@ CMakeFiles/CORE.dir/core/sources/nlp/BocopProblem.cpp.obj.provides.build: CMakeF
 
 CMakeFiles/CORE.dir/core/sources/nlp/evalNLPBounds.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/nlp/evalNLPBounds.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/nlp/evalNLPBounds.cpp.obj: ../../../core/sources/nlp/evalNLPBounds.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/evalNLPBounds.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/nlp/evalNLPBounds.cpp.obj: C:/Bocop-2.2.1/core/sources/nlp/evalNLPBounds.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/evalNLPBounds.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/nlp/evalNLPBounds.cpp.obj -c /C/Bocop-2.2.1/core/sources/nlp/evalNLPBounds.cpp
 
 CMakeFiles/CORE.dir/core/sources/nlp/evalNLPBounds.cpp.i: cmake_force
@@ -284,8 +284,8 @@ CMakeFiles/CORE.dir/core/sources/nlp/evalNLPBounds.cpp.obj.provides.build: CMake
 
 CMakeFiles/CORE.dir/core/sources/nlp/Error.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/nlp/Error.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/nlp/Error.cpp.obj: ../../../core/sources/nlp/Error.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/Error.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/nlp/Error.cpp.obj: C:/Bocop-2.2.1/core/sources/nlp/Error.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/Error.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/nlp/Error.cpp.obj -c /C/Bocop-2.2.1/core/sources/nlp/Error.cpp
 
 CMakeFiles/CORE.dir/core/sources/nlp/Error.cpp.i: cmake_force
@@ -309,8 +309,8 @@ CMakeFiles/CORE.dir/core/sources/nlp/Error.cpp.obj.provides.build: CMakeFiles/CO
 
 CMakeFiles/CORE.dir/core/sources/nlp/generateTapes.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/nlp/generateTapes.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/nlp/generateTapes.cpp.obj: ../../../core/sources/nlp/generateTapes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/generateTapes.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/nlp/generateTapes.cpp.obj: C:/Bocop-2.2.1/core/sources/nlp/generateTapes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/generateTapes.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/nlp/generateTapes.cpp.obj -c /C/Bocop-2.2.1/core/sources/nlp/generateTapes.cpp
 
 CMakeFiles/CORE.dir/core/sources/nlp/generateTapes.cpp.i: cmake_force
@@ -334,8 +334,8 @@ CMakeFiles/CORE.dir/core/sources/nlp/generateTapes.cpp.obj.provides.build: CMake
 
 CMakeFiles/CORE.dir/core/sources/nlp/overloaded_from_nlp.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/nlp/overloaded_from_nlp.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/nlp/overloaded_from_nlp.cpp.obj: ../../../core/sources/nlp/overloaded_from_nlp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/overloaded_from_nlp.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/nlp/overloaded_from_nlp.cpp.obj: C:/Bocop-2.2.1/core/sources/nlp/overloaded_from_nlp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/overloaded_from_nlp.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/nlp/overloaded_from_nlp.cpp.obj -c /C/Bocop-2.2.1/core/sources/nlp/overloaded_from_nlp.cpp
 
 CMakeFiles/CORE.dir/core/sources/nlp/overloaded_from_nlp.cpp.i: cmake_force
@@ -359,8 +359,8 @@ CMakeFiles/CORE.dir/core/sources/nlp/overloaded_from_nlp.cpp.obj.provides.build:
 
 CMakeFiles/CORE.dir/core/sources/nlp/publicTools.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/nlp/publicTools.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/nlp/publicTools.cpp.obj: ../../../core/sources/nlp/publicTools.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/publicTools.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/nlp/publicTools.cpp.obj: C:/Bocop-2.2.1/core/sources/nlp/publicTools.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/publicTools.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/nlp/publicTools.cpp.obj -c /C/Bocop-2.2.1/core/sources/nlp/publicTools.cpp
 
 CMakeFiles/CORE.dir/core/sources/nlp/publicTools.cpp.i: cmake_force
@@ -384,8 +384,8 @@ CMakeFiles/CORE.dir/core/sources/nlp/publicTools.cpp.obj.provides.build: CMakeFi
 
 CMakeFiles/CORE.dir/core/sources/nlp/tools.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/nlp/tools.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/nlp/tools.cpp.obj: ../../../core/sources/nlp/tools.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/tools.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/nlp/tools.cpp.obj: C:/Bocop-2.2.1/core/sources/nlp/tools.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/CORE.dir/core/sources/nlp/tools.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/nlp/tools.cpp.obj -c /C/Bocop-2.2.1/core/sources/nlp/tools.cpp
 
 CMakeFiles/CORE.dir/core/sources/nlp/tools.cpp.i: cmake_force
@@ -409,8 +409,8 @@ CMakeFiles/CORE.dir/core/sources/nlp/tools.cpp.obj.provides.build: CMakeFiles/CO
 
 CMakeFiles/CORE.dir/core/sources/startingpoint/GenerationVariable.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/startingpoint/GenerationVariable.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/startingpoint/GenerationVariable.cpp.obj: ../../../core/sources/startingpoint/GenerationVariable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/CORE.dir/core/sources/startingpoint/GenerationVariable.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/startingpoint/GenerationVariable.cpp.obj: C:/Bocop-2.2.1/core/sources/startingpoint/GenerationVariable.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/CORE.dir/core/sources/startingpoint/GenerationVariable.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/startingpoint/GenerationVariable.cpp.obj -c /C/Bocop-2.2.1/core/sources/startingpoint/GenerationVariable.cpp
 
 CMakeFiles/CORE.dir/core/sources/startingpoint/GenerationVariable.cpp.i: cmake_force
@@ -434,8 +434,8 @@ CMakeFiles/CORE.dir/core/sources/startingpoint/GenerationVariable.cpp.obj.provid
 
 CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromInitFile.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromInitFile.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromInitFile.cpp.obj: ../../../core/sources/startingpoint/StartFromInitFile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromInitFile.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromInitFile.cpp.obj: C:/Bocop-2.2.1/core/sources/startingpoint/StartFromInitFile.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromInitFile.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromInitFile.cpp.obj -c /C/Bocop-2.2.1/core/sources/startingpoint/StartFromInitFile.cpp
 
 CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromInitFile.cpp.i: cmake_force
@@ -459,8 +459,8 @@ CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromInitFile.cpp.obj.provide
 
 CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromPreviousSolution.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromPreviousSolution.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromPreviousSolution.cpp.obj: ../../../core/sources/startingpoint/StartFromPreviousSolution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromPreviousSolution.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromPreviousSolution.cpp.obj: C:/Bocop-2.2.1/core/sources/startingpoint/StartFromPreviousSolution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromPreviousSolution.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromPreviousSolution.cpp.obj -c /C/Bocop-2.2.1/core/sources/startingpoint/StartFromPreviousSolution.cpp
 
 CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromPreviousSolution.cpp.i: cmake_force
@@ -484,8 +484,8 @@ CMakeFiles/CORE.dir/core/sources/startingpoint/StartFromPreviousSolution.cpp.obj
 
 CMakeFiles/CORE.dir/core/sources/startingpoint/StartingPoint.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/startingpoint/StartingPoint.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/startingpoint/StartingPoint.cpp.obj: ../../../core/sources/startingpoint/StartingPoint.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/CORE.dir/core/sources/startingpoint/StartingPoint.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/startingpoint/StartingPoint.cpp.obj: C:/Bocop-2.2.1/core/sources/startingpoint/StartingPoint.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/CORE.dir/core/sources/startingpoint/StartingPoint.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/startingpoint/StartingPoint.cpp.obj -c /C/Bocop-2.2.1/core/sources/startingpoint/StartingPoint.cpp
 
 CMakeFiles/CORE.dir/core/sources/startingpoint/StartingPoint.cpp.i: cmake_force
@@ -509,8 +509,8 @@ CMakeFiles/CORE.dir/core/sources/startingpoint/StartingPoint.cpp.obj.provides.bu
 
 CMakeFiles/CORE.dir/core/sources/interpolation/BocopInterpolation.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/interpolation/BocopInterpolation.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/interpolation/BocopInterpolation.cpp.obj: ../../../core/sources/interpolation/BocopInterpolation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/CORE.dir/core/sources/interpolation/BocopInterpolation.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/interpolation/BocopInterpolation.cpp.obj: C:/Bocop-2.2.1/core/sources/interpolation/BocopInterpolation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/CORE.dir/core/sources/interpolation/BocopInterpolation.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/interpolation/BocopInterpolation.cpp.obj -c /C/Bocop-2.2.1/core/sources/interpolation/BocopInterpolation.cpp
 
 CMakeFiles/CORE.dir/core/sources/interpolation/BocopInterpolation.cpp.i: cmake_force
@@ -534,8 +534,8 @@ CMakeFiles/CORE.dir/core/sources/interpolation/BocopInterpolation.cpp.obj.provid
 
 CMakeFiles/CORE.dir/core/sources/interpolation/BocopLinearInterpolation.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/interpolation/BocopLinearInterpolation.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/interpolation/BocopLinearInterpolation.cpp.obj: ../../../core/sources/interpolation/BocopLinearInterpolation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/CORE.dir/core/sources/interpolation/BocopLinearInterpolation.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/interpolation/BocopLinearInterpolation.cpp.obj: C:/Bocop-2.2.1/core/sources/interpolation/BocopLinearInterpolation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/CORE.dir/core/sources/interpolation/BocopLinearInterpolation.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/interpolation/BocopLinearInterpolation.cpp.obj -c /C/Bocop-2.2.1/core/sources/interpolation/BocopLinearInterpolation.cpp
 
 CMakeFiles/CORE.dir/core/sources/interpolation/BocopLinearInterpolation.cpp.i: cmake_force
@@ -559,8 +559,8 @@ CMakeFiles/CORE.dir/core/sources/interpolation/BocopLinearInterpolation.cpp.obj.
 
 CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj: ../../../core/sources/interpolation/BocopSplinesInterpolation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj: C:/Bocop-2.2.1/core/sources/interpolation/BocopSplinesInterpolation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj -c /C/Bocop-2.2.1/core/sources/interpolation/BocopSplinesInterpolation.cpp
 
 CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.i: cmake_force
@@ -582,35 +582,35 @@ CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj
 CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj.provides.build: CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj
 
 
-CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj: CMakeFiles/CORE.dir/flags.make
-CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj: ../dependencies.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj"
-	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj -c /C/Bocop-2.2.1/examples/lab4/dependencies.cpp
+CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj: CMakeFiles/CORE.dir/flags.make
+CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
+CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj: D:/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj"
+	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj -c /D/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp
 
-CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.i"
-	/C/Bocop-2.2.1/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /C/Bocop-2.2.1/examples/lab4/dependencies.cpp > CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.i
+CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.i"
+	/C/Bocop-2.2.1/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /D/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp > CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.i
 
-CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.s"
-	/C/Bocop-2.2.1/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /C/Bocop-2.2.1/examples/lab4/dependencies.cpp -o CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.s
+CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.s"
+	/C/Bocop-2.2.1/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /D/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp -o CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.s
 
-CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj.requires:
+CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj.requires:
 
-.PHONY : CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj.requires
+.PHONY : CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj.requires
 
-CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj.provides: CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj.requires
-	$(MAKE) -f CMakeFiles/CORE.dir/build.make CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj.provides.build
-.PHONY : CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj.provides
+CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj.provides: CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj.requires
+	$(MAKE) -f CMakeFiles/CORE.dir/build.make CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj.provides.build
+.PHONY : CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj.provides
 
-CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj.provides.build: CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj
+CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj.provides.build: CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj
 
 
 CMakeFiles/CORE.dir/core/sources/optionalfunctions/preProcessing.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/optionalfunctions/preProcessing.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/optionalfunctions/preProcessing.cpp.obj: ../../../core/sources/optionalfunctions/preProcessing.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/CORE.dir/core/sources/optionalfunctions/preProcessing.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/optionalfunctions/preProcessing.cpp.obj: C:/Bocop-2.2.1/core/sources/optionalfunctions/preProcessing.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/CORE.dir/core/sources/optionalfunctions/preProcessing.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/optionalfunctions/preProcessing.cpp.obj -c /C/Bocop-2.2.1/core/sources/optionalfunctions/preProcessing.cpp
 
 CMakeFiles/CORE.dir/core/sources/optionalfunctions/preProcessing.cpp.i: cmake_force
@@ -634,8 +634,8 @@ CMakeFiles/CORE.dir/core/sources/optionalfunctions/preProcessing.cpp.obj.provide
 
 CMakeFiles/CORE.dir/core/sources/optionalfunctions/postProcessing.cpp.obj: CMakeFiles/CORE.dir/flags.make
 CMakeFiles/CORE.dir/core/sources/optionalfunctions/postProcessing.cpp.obj: CMakeFiles/CORE.dir/includes_CXX.rsp
-CMakeFiles/CORE.dir/core/sources/optionalfunctions/postProcessing.cpp.obj: ../../../core/sources/optionalfunctions/postProcessing.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/CORE.dir/core/sources/optionalfunctions/postProcessing.cpp.obj"
+CMakeFiles/CORE.dir/core/sources/optionalfunctions/postProcessing.cpp.obj: C:/Bocop-2.2.1/core/sources/optionalfunctions/postProcessing.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/CORE.dir/core/sources/optionalfunctions/postProcessing.cpp.obj"
 	/C/Bocop-2.2.1/MinGW/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CORE.dir/core/sources/optionalfunctions/postProcessing.cpp.obj -c /C/Bocop-2.2.1/core/sources/optionalfunctions/postProcessing.cpp
 
 CMakeFiles/CORE.dir/core/sources/optionalfunctions/postProcessing.cpp.i: cmake_force
@@ -680,7 +680,7 @@ CORE_OBJECTS = \
 "CMakeFiles/CORE.dir/core/sources/interpolation/BocopInterpolation.cpp.obj" \
 "CMakeFiles/CORE.dir/core/sources/interpolation/BocopLinearInterpolation.cpp.obj" \
 "CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj" \
-"CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj" \
+"CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj" \
 "CMakeFiles/CORE.dir/core/sources/optionalfunctions/preProcessing.cpp.obj" \
 "CMakeFiles/CORE.dir/core/sources/optionalfunctions/postProcessing.cpp.obj"
 
@@ -708,12 +708,12 @@ lib/libCORE.a: CMakeFiles/CORE.dir/core/sources/startingpoint/StartingPoint.cpp.
 lib/libCORE.a: CMakeFiles/CORE.dir/core/sources/interpolation/BocopInterpolation.cpp.obj
 lib/libCORE.a: CMakeFiles/CORE.dir/core/sources/interpolation/BocopLinearInterpolation.cpp.obj
 lib/libCORE.a: CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj
-lib/libCORE.a: CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj
+lib/libCORE.a: CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj
 lib/libCORE.a: CMakeFiles/CORE.dir/core/sources/optionalfunctions/preProcessing.cpp.obj
 lib/libCORE.a: CMakeFiles/CORE.dir/core/sources/optionalfunctions/postProcessing.cpp.obj
 lib/libCORE.a: CMakeFiles/CORE.dir/build.make
 lib/libCORE.a: CMakeFiles/CORE.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/C/Bocop-2.2.1/examples/lab4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX static library lib/libCORE.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX static library lib/libCORE.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/CORE.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CORE.dir/link.txt --verbose=$(VERBOSE)
 
@@ -743,7 +743,7 @@ CMakeFiles/CORE.dir/requires: CMakeFiles/CORE.dir/core/sources/startingpoint/Sta
 CMakeFiles/CORE.dir/requires: CMakeFiles/CORE.dir/core/sources/interpolation/BocopInterpolation.cpp.obj.requires
 CMakeFiles/CORE.dir/requires: CMakeFiles/CORE.dir/core/sources/interpolation/BocopLinearInterpolation.cpp.obj.requires
 CMakeFiles/CORE.dir/requires: CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj.requires
-CMakeFiles/CORE.dir/requires: CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj.requires
+CMakeFiles/CORE.dir/requires: CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj.requires
 CMakeFiles/CORE.dir/requires: CMakeFiles/CORE.dir/core/sources/optionalfunctions/preProcessing.cpp.obj.requires
 CMakeFiles/CORE.dir/requires: CMakeFiles/CORE.dir/core/sources/optionalfunctions/postProcessing.cpp.obj.requires
 
@@ -754,6 +754,6 @@ CMakeFiles/CORE.dir/clean:
 .PHONY : CMakeFiles/CORE.dir/clean
 
 CMakeFiles/CORE.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MSYS Makefiles" /C/Bocop-2.2.1 /C/Bocop-2.2.1 /C/Bocop-2.2.1/examples/lab4/build /C/Bocop-2.2.1/examples/lab4/build /C/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CORE.dir/DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MSYS Makefiles" /C/Bocop-2.2.1 /C/Bocop-2.2.1 /D/github/MA4703/lab4/bocop/problema_p4/build /D/github/MA4703/lab4/bocop/problema_p4/build /D/github/MA4703/lab4/bocop/problema_p4/build/CMakeFiles/CORE.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/CORE.dir/depend
 

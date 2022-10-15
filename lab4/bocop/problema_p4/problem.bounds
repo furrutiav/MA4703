@@ -14,7 +14,7 @@
 # Bounds for the state variables :
 0 0 free
 0 0 free
-0 0 free
+0 2e+020 lower
 0 0 free
 
 # Bounds for the control variables :

@@ -31,8 +31,8 @@
 {
 	// HERE : description of the function for the initial and final conditions
 	// Please give a function or a value for each element of boundaryconditions
-    boundary_conditions[0] = initial_state[0]+constants[0];
-    boundary_conditions[1] = initial_state[1]+constants[1]+constants[2];
+    boundary_conditions[0] = initial_state[0]-constants[0];
+    boundary_conditions[1] = initial_state[1]-constants[1]-constants[2];
     boundary_conditions[2] = initial_state[2];
 }
 

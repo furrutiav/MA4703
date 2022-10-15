@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
 
-The C compiler identification is GNU, found in "C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/3.10.0-rc3/CompilerIdC/a.exe"
+The C compiler identification is GNU, found in "D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/3.10.0-rc3/CompilerIdC/a.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: C:/Bocop-2.2.1/MinGW/bin/g++.exe 
@@ -23,35 +23,35 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
 
-The CXX compiler identification is GNU, found in "C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/3.10.0-rc3/CompilerIdCXX/a.exe"
+The CXX compiler identification is GNU, found in "D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/3.10.0-rc3/CompilerIdCXX/a.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp
+Change Dir: D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_13004/fast"
-/usr/bin/make -f CMakeFiles/cmTC_13004.dir/build.make CMakeFiles/cmTC_13004.dir/build
-make[1]: Entering directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_13004.dir/testCCompiler.c.obj
-/C/Bocop-2.2.1/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_13004.dir/testCCompiler.c.obj   -c /C/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_13004.exe
-"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_13004.dir/objects.a
-/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_13004.dir/objects.a @CMakeFiles/cmTC_13004.dir/objects1.rsp
-/C/Bocop-2.2.1/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_13004.dir/objects.a -Wl,--no-whole-archive  -o cmTC_13004.exe -Wl,--out-implib,libcmTC_13004.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_13004.dir/linklibs.rsp
-make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_51eaa/fast"
+/usr/bin/make -f CMakeFiles/cmTC_51eaa.dir/build.make CMakeFiles/cmTC_51eaa.dir/build
+make[1]: Entering directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_51eaa.dir/testCCompiler.c.obj
+/C/Bocop-2.2.1/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_51eaa.dir/testCCompiler.c.obj   -c /D/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_51eaa.exe
+"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_51eaa.dir/objects.a
+/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_51eaa.dir/objects.a @CMakeFiles/cmTC_51eaa.dir/objects1.rsp
+/C/Bocop-2.2.1/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_51eaa.dir/objects.a -Wl,--no-whole-archive  -o cmTC_51eaa.exe -Wl,--out-implib,libcmTC_51eaa.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_51eaa.dir/linklibs.rsp
+make[1]: Leaving directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp
+Change Dir: D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_54e6b/fast"
-/usr/bin/make -f CMakeFiles/cmTC_54e6b.dir/build.make CMakeFiles/cmTC_54e6b.dir/build
-make[1]: Entering directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_54e6b.dir/CMakeCCompilerABI.c.obj
-/C/Bocop-2.2.1/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_54e6b.dir/CMakeCCompilerABI.c.obj   -c "/C/Program Files (x86)/CMake/share/cmake-3.10/Modules/CMakeCCompilerABI.c"
-Linking C executable cmTC_54e6b.exe
-"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_54e6b.dir/objects.a
-/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_54e6b.dir/objects.a @CMakeFiles/cmTC_54e6b.dir/objects1.rsp
-/C/Bocop-2.2.1/MinGW/bin/gcc.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_54e6b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_54e6b.exe -Wl,--out-implib,libcmTC_54e6b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_1a0ac/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1a0ac.dir/build.make CMakeFiles/cmTC_1a0ac.dir/build
+make[1]: Entering directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1a0ac.dir/CMakeCCompilerABI.c.obj
+/C/Bocop-2.2.1/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_1a0ac.dir/CMakeCCompilerABI.c.obj   -c "/C/Program Files (x86)/CMake/share/cmake-3.10/Modules/CMakeCCompilerABI.c"
+Linking C executable cmTC_1a0ac.exe
+"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_1a0ac.dir/objects.a
+/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_1a0ac.dir/objects.a @CMakeFiles/cmTC_1a0ac.dir/objects1.rsp
+/C/Bocop-2.2.1/MinGW/bin/gcc.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_1a0ac.dir/objects.a -Wl,--no-whole-archive  -o cmTC_1a0ac.exe -Wl,--out-implib,libcmTC_1a0ac.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Using built-in specs.
 COLLECT_GCC=c:\Bocop-2.2.1\MinGW\bin\gcc.exe
 COLLECT_LTO_WRAPPER=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe
@@ -61,25 +61,25 @@ Thread model: win32
 gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
 COMPILER_PATH=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/bocop-2.2.1/mingw/bin/../libexec/gcc/;c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
 LIBRARY_PATH=c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/bocop-2.2.1/mingw/bin/../lib/gcc/;c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_54e6b.exe' '-mtune=generic' '-march=i586'
- c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/collect2.exe -plugin c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/liblto_plugin-0.dll -plugin-opt=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\felip\AppData\Local\Temp\cc9Ftoar.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -o cmTC_54e6b.exe c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../crt2.o c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtbegin.o -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0 -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../.. --whole-archive CMakeFiles/cmTC_54e6b.dir/objects.a --no-whole-archive --out-implib libcmTC_54e6b.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtend.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_54e6b.exe' '-mtune=generic' '-march=i586'
-make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1a0ac.exe' '-mtune=generic' '-march=i586'
+ c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/collect2.exe -plugin c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/liblto_plugin-0.dll -plugin-opt=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\felip\AppData\Local\Temp\ccARXR6K.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -o cmTC_1a0ac.exe c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../crt2.o c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtbegin.o -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0 -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../.. --whole-archive CMakeFiles/cmTC_1a0ac.dir/objects.a --no-whole-archive --out-implib libcmTC_1a0ac.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1a0ac.exe' '-mtune=generic' '-march=i586'
+make[1]: Leaving directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_54e6b/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_54e6b.dir/build.make CMakeFiles/cmTC_54e6b.dir/build]
-  ignore line: [make[1]: Entering directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_54e6b.dir/CMakeCCompilerABI.c.obj]
-  ignore line: [/C/Bocop-2.2.1/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_54e6b.dir/CMakeCCompilerABI.c.obj   -c "/C/Program Files (x86)/CMake/share/cmake-3.10/Modules/CMakeCCompilerABI.c"]
-  ignore line: [Linking C executable cmTC_54e6b.exe]
-  ignore line: ["/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_54e6b.dir/objects.a]
-  ignore line: [/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_54e6b.dir/objects.a @CMakeFiles/cmTC_54e6b.dir/objects1.rsp]
-  ignore line: [/C/Bocop-2.2.1/MinGW/bin/gcc.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_54e6b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_54e6b.exe -Wl,--out-implib,libcmTC_54e6b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_1a0ac/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_1a0ac.dir/build.make CMakeFiles/cmTC_1a0ac.dir/build]
+  ignore line: [make[1]: Entering directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_1a0ac.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [/C/Bocop-2.2.1/MinGW/bin/gcc.exe    -o CMakeFiles/cmTC_1a0ac.dir/CMakeCCompilerABI.c.obj   -c "/C/Program Files (x86)/CMake/share/cmake-3.10/Modules/CMakeCCompilerABI.c"]
+  ignore line: [Linking C executable cmTC_1a0ac.exe]
+  ignore line: ["/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_1a0ac.dir/objects.a]
+  ignore line: [/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_1a0ac.dir/objects.a @CMakeFiles/cmTC_1a0ac.dir/objects1.rsp]
+  ignore line: [/C/Bocop-2.2.1/MinGW/bin/gcc.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_1a0ac.dir/objects.a -Wl,--no-whole-archive  -o cmTC_1a0ac.exe -Wl,--out-implib,libcmTC_1a0ac.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=c:\Bocop-2.2.1\MinGW\bin\gcc.exe]
   ignore line: [COLLECT_LTO_WRAPPER=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe]
@@ -94,13 +94,13 @@ Parsed C implicit link information from above output:
   ignore line: [c:/bocop-2.2.1/mingw/bin/../lib/gcc/]
   ignore line: [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/]
   ignore line: [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_54e6b.exe' '-mtune=generic' '-march=i586']
-  link line: [ c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/collect2.exe -plugin c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/liblto_plugin-0.dll -plugin-opt=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\felip\AppData\Local\Temp\cc9Ftoar.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -o cmTC_54e6b.exe c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../crt2.o c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtbegin.o -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0 -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../.. --whole-archive CMakeFiles/cmTC_54e6b.dir/objects.a --no-whole-archive --out-implib libcmTC_54e6b.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1a0ac.exe' '-mtune=generic' '-march=i586']
+  link line: [ c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/collect2.exe -plugin c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/liblto_plugin-0.dll -plugin-opt=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\felip\AppData\Local\Temp\ccARXR6K.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -o cmTC_1a0ac.exe c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../crt2.o c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtbegin.o -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0 -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../.. --whole-archive CMakeFiles/cmTC_1a0ac.dir/objects.a --no-whole-archive --out-implib libcmTC_1a0ac.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtend.o]
     arg [c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/collect2.exe] ==> ignore
     arg [-plugin] ==> ignore
     arg [c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/liblto_plugin-0.dll] ==> ignore
     arg [-plugin-opt=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe] ==> ignore
-    arg [-plugin-opt=-fresolution=C:\Users\felip\AppData\Local\Temp\cc9Ftoar.res] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\felip\AppData\Local\Temp\ccARXR6K.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
@@ -119,7 +119,7 @@ Parsed C implicit link information from above output:
     arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_54e6b.exe] ==> ignore
+    arg [cmTC_1a0ac.exe] ==> ignore
     arg [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../crt2.o] ==> ignore
     arg [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtbegin.o] ==> ignore
     arg [-Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0] ==> dir [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0]
@@ -127,10 +127,10 @@ Parsed C implicit link information from above output:
     arg [-Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib] ==> dir [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib]
     arg [-Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../..] ==> dir [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles/cmTC_54e6b.dir/objects.a] ==> ignore
+    arg [CMakeFiles/cmTC_1a0ac.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_54e6b.dll.a] ==> ignore
+    arg [libcmTC_1a0ac.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
@@ -166,18 +166,18 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp
+Change Dir: D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_aa45a/fast"
-/usr/bin/make -f CMakeFiles/cmTC_aa45a.dir/build.make CMakeFiles/cmTC_aa45a.dir/build
-make[1]: Entering directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_aa45a.dir/feature_tests.c.obj
-/C/Bocop-2.2.1/MinGW/bin/gcc.exe   -std=c11 -o CMakeFiles/cmTC_aa45a.dir/feature_tests.c.obj   -c /C/Bocop-2.2.1/examples/lab4/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_aa45a.exe
-"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_aa45a.dir/objects.a
-/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_aa45a.dir/objects.a @CMakeFiles/cmTC_aa45a.dir/objects1.rsp
-/C/Bocop-2.2.1/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_aa45a.dir/objects.a -Wl,--no-whole-archive  -o cmTC_aa45a.exe -Wl,--out-implib,libcmTC_aa45a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_aa45a.dir/linklibs.rsp
-make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_9fc22/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9fc22.dir/build.make CMakeFiles/cmTC_9fc22.dir/build
+make[1]: Entering directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9fc22.dir/feature_tests.c.obj
+/C/Bocop-2.2.1/MinGW/bin/gcc.exe   -std=c11 -o CMakeFiles/cmTC_9fc22.dir/feature_tests.c.obj   -c /D/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_9fc22.exe
+"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_9fc22.dir/objects.a
+/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_9fc22.dir/objects.a @CMakeFiles/cmTC_9fc22.dir/objects1.rsp
+/C/Bocop-2.2.1/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_9fc22.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9fc22.exe -Wl,--out-implib,libcmTC_9fc22.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_9fc22.dir/linklibs.rsp
+make[1]: Leaving directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -187,18 +187,18 @@ make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeT
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp
+Change Dir: D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_b36a7/fast"
-/usr/bin/make -f CMakeFiles/cmTC_b36a7.dir/build.make CMakeFiles/cmTC_b36a7.dir/build
-make[1]: Entering directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_b36a7.dir/feature_tests.c.obj
-/C/Bocop-2.2.1/MinGW/bin/gcc.exe   -std=c99 -o CMakeFiles/cmTC_b36a7.dir/feature_tests.c.obj   -c /C/Bocop-2.2.1/examples/lab4/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_b36a7.exe
-"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_b36a7.dir/objects.a
-/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_b36a7.dir/objects.a @CMakeFiles/cmTC_b36a7.dir/objects1.rsp
-/C/Bocop-2.2.1/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_b36a7.dir/objects.a -Wl,--no-whole-archive  -o cmTC_b36a7.exe -Wl,--out-implib,libcmTC_b36a7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_b36a7.dir/linklibs.rsp
-make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_c612d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c612d.dir/build.make CMakeFiles/cmTC_c612d.dir/build
+make[1]: Entering directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c612d.dir/feature_tests.c.obj
+/C/Bocop-2.2.1/MinGW/bin/gcc.exe   -std=c99 -o CMakeFiles/cmTC_c612d.dir/feature_tests.c.obj   -c /D/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_c612d.exe
+"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_c612d.dir/objects.a
+/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_c612d.dir/objects.a @CMakeFiles/cmTC_c612d.dir/objects1.rsp
+/C/Bocop-2.2.1/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_c612d.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c612d.exe -Wl,--out-implib,libcmTC_c612d.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_c612d.dir/linklibs.rsp
+make[1]: Leaving directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -208,18 +208,18 @@ make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeT
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp
+Change Dir: D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_cd158/fast"
-/usr/bin/make -f CMakeFiles/cmTC_cd158.dir/build.make CMakeFiles/cmTC_cd158.dir/build
-make[1]: Entering directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_cd158.dir/feature_tests.c.obj
-/C/Bocop-2.2.1/MinGW/bin/gcc.exe   -std=c90 -o CMakeFiles/cmTC_cd158.dir/feature_tests.c.obj   -c /C/Bocop-2.2.1/examples/lab4/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_cd158.exe
-"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_cd158.dir/objects.a
-/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_cd158.dir/objects.a @CMakeFiles/cmTC_cd158.dir/objects1.rsp
-/C/Bocop-2.2.1/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_cd158.dir/objects.a -Wl,--no-whole-archive  -o cmTC_cd158.exe -Wl,--out-implib,libcmTC_cd158.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_cd158.dir/linklibs.rsp
-make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_15058/fast"
+/usr/bin/make -f CMakeFiles/cmTC_15058.dir/build.make CMakeFiles/cmTC_15058.dir/build
+make[1]: Entering directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_15058.dir/feature_tests.c.obj
+/C/Bocop-2.2.1/MinGW/bin/gcc.exe   -std=c90 -o CMakeFiles/cmTC_15058.dir/feature_tests.c.obj   -c /D/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_15058.exe
+"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_15058.dir/objects.a
+/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_15058.dir/objects.a @CMakeFiles/cmTC_15058.dir/objects1.rsp
+/C/Bocop-2.2.1/MinGW/bin/gcc.exe      -Wl,--whole-archive CMakeFiles/cmTC_15058.dir/objects.a -Wl,--no-whole-archive  -o cmTC_15058.exe -Wl,--out-implib,libcmTC_15058.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_15058.dir/linklibs.rsp
+make[1]: Leaving directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -227,32 +227,32 @@ make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeT
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp
+Change Dir: D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_46f48/fast"
-/usr/bin/make -f CMakeFiles/cmTC_46f48.dir/build.make CMakeFiles/cmTC_46f48.dir/build
-make[1]: Entering directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_46f48.dir/testCXXCompiler.cxx.obj
-/C/Bocop-2.2.1/MinGW/bin/g++.exe     -o CMakeFiles/cmTC_46f48.dir/testCXXCompiler.cxx.obj -c /C/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_46f48.exe
-"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_46f48.dir/objects.a
-/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_46f48.dir/objects.a @CMakeFiles/cmTC_46f48.dir/objects1.rsp
-/C/Bocop-2.2.1/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_46f48.dir/objects.a -Wl,--no-whole-archive  -o cmTC_46f48.exe -Wl,--out-implib,libcmTC_46f48.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_46f48.dir/linklibs.rsp
-make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_6bc3d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6bc3d.dir/build.make CMakeFiles/cmTC_6bc3d.dir/build
+make[1]: Entering directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_6bc3d.dir/testCXXCompiler.cxx.obj
+/C/Bocop-2.2.1/MinGW/bin/g++.exe     -o CMakeFiles/cmTC_6bc3d.dir/testCXXCompiler.cxx.obj -c /D/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_6bc3d.exe
+"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_6bc3d.dir/objects.a
+/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_6bc3d.dir/objects.a @CMakeFiles/cmTC_6bc3d.dir/objects1.rsp
+/C/Bocop-2.2.1/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_6bc3d.dir/objects.a -Wl,--no-whole-archive  -o cmTC_6bc3d.exe -Wl,--out-implib,libcmTC_6bc3d.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_6bc3d.dir/linklibs.rsp
+make[1]: Leaving directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp
+Change Dir: D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_00b60/fast"
-/usr/bin/make -f CMakeFiles/cmTC_00b60.dir/build.make CMakeFiles/cmTC_00b60.dir/build
-make[1]: Entering directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_00b60.dir/CMakeCXXCompilerABI.cpp.obj
-/C/Bocop-2.2.1/MinGW/bin/g++.exe     -o CMakeFiles/cmTC_00b60.dir/CMakeCXXCompilerABI.cpp.obj -c "/C/Program Files (x86)/CMake/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp"
-Linking CXX executable cmTC_00b60.exe
-"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_00b60.dir/objects.a
-/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_00b60.dir/objects.a @CMakeFiles/cmTC_00b60.dir/objects1.rsp
-/C/Bocop-2.2.1/MinGW/bin/g++.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_00b60.dir/objects.a -Wl,--no-whole-archive  -o cmTC_00b60.exe -Wl,--out-implib,libcmTC_00b60.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_9dc0b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9dc0b.dir/build.make CMakeFiles/cmTC_9dc0b.dir/build
+make[1]: Entering directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9dc0b.dir/CMakeCXXCompilerABI.cpp.obj
+/C/Bocop-2.2.1/MinGW/bin/g++.exe     -o CMakeFiles/cmTC_9dc0b.dir/CMakeCXXCompilerABI.cpp.obj -c "/C/Program Files (x86)/CMake/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp"
+Linking CXX executable cmTC_9dc0b.exe
+"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_9dc0b.dir/objects.a
+/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_9dc0b.dir/objects.a @CMakeFiles/cmTC_9dc0b.dir/objects1.rsp
+/C/Bocop-2.2.1/MinGW/bin/g++.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_9dc0b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9dc0b.exe -Wl,--out-implib,libcmTC_9dc0b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Using built-in specs.
 COLLECT_GCC=c:\Bocop-2.2.1\MinGW\bin\g++.exe
 COLLECT_LTO_WRAPPER=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe
@@ -262,25 +262,25 @@ Thread model: win32
 gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
 COMPILER_PATH=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/bocop-2.2.1/mingw/bin/../libexec/gcc/;c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
 LIBRARY_PATH=c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/bocop-2.2.1/mingw/bin/../lib/gcc/;c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_00b60.exe' '-shared-libgcc' '-mtune=generic' '-march=i586'
- c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/collect2.exe -plugin c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/liblto_plugin-0.dll -plugin-opt=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\felip\AppData\Local\Temp\ccVEcKid.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTC_00b60.exe c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../crt2.o c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtbegin.o -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0 -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../.. --whole-archive CMakeFiles/cmTC_00b60.dir/objects.a --no-whole-archive --out-implib libcmTC_00b60.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtend.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_00b60.exe' '-shared-libgcc' '-mtune=generic' '-march=i586'
-make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9dc0b.exe' '-shared-libgcc' '-mtune=generic' '-march=i586'
+ c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/collect2.exe -plugin c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/liblto_plugin-0.dll -plugin-opt=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\felip\AppData\Local\Temp\ccgiA5Zv.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTC_9dc0b.exe c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../crt2.o c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtbegin.o -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0 -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../.. --whole-archive CMakeFiles/cmTC_9dc0b.dir/objects.a --no-whole-archive --out-implib libcmTC_9dc0b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9dc0b.exe' '-shared-libgcc' '-mtune=generic' '-march=i586'
+make[1]: Leaving directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_00b60/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_00b60.dir/build.make CMakeFiles/cmTC_00b60.dir/build]
-  ignore line: [make[1]: Entering directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_00b60.dir/CMakeCXXCompilerABI.cpp.obj]
-  ignore line: [/C/Bocop-2.2.1/MinGW/bin/g++.exe     -o CMakeFiles/cmTC_00b60.dir/CMakeCXXCompilerABI.cpp.obj -c "/C/Program Files (x86)/CMake/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp"]
-  ignore line: [Linking CXX executable cmTC_00b60.exe]
-  ignore line: ["/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_00b60.dir/objects.a]
-  ignore line: [/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_00b60.dir/objects.a @CMakeFiles/cmTC_00b60.dir/objects1.rsp]
-  ignore line: [/C/Bocop-2.2.1/MinGW/bin/g++.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_00b60.dir/objects.a -Wl,--no-whole-archive  -o cmTC_00b60.exe -Wl,--out-implib,libcmTC_00b60.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_9dc0b/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_9dc0b.dir/build.make CMakeFiles/cmTC_9dc0b.dir/build]
+  ignore line: [make[1]: Entering directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_9dc0b.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [/C/Bocop-2.2.1/MinGW/bin/g++.exe     -o CMakeFiles/cmTC_9dc0b.dir/CMakeCXXCompilerABI.cpp.obj -c "/C/Program Files (x86)/CMake/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp"]
+  ignore line: [Linking CXX executable cmTC_9dc0b.exe]
+  ignore line: ["/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_9dc0b.dir/objects.a]
+  ignore line: [/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_9dc0b.dir/objects.a @CMakeFiles/cmTC_9dc0b.dir/objects1.rsp]
+  ignore line: [/C/Bocop-2.2.1/MinGW/bin/g++.exe     -v -Wl,--whole-archive CMakeFiles/cmTC_9dc0b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9dc0b.exe -Wl,--out-implib,libcmTC_9dc0b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=c:\Bocop-2.2.1\MinGW\bin\g++.exe]
   ignore line: [COLLECT_LTO_WRAPPER=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe]
@@ -295,13 +295,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [c:/bocop-2.2.1/mingw/bin/../lib/gcc/]
   ignore line: [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/]
   ignore line: [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_00b60.exe' '-shared-libgcc' '-mtune=generic' '-march=i586']
-  link line: [ c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/collect2.exe -plugin c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/liblto_plugin-0.dll -plugin-opt=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\felip\AppData\Local\Temp\ccVEcKid.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTC_00b60.exe c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../crt2.o c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtbegin.o -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0 -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../.. --whole-archive CMakeFiles/cmTC_00b60.dir/objects.a --no-whole-archive --out-implib libcmTC_00b60.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9dc0b.exe' '-shared-libgcc' '-mtune=generic' '-march=i586']
+  link line: [ c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/collect2.exe -plugin c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/liblto_plugin-0.dll -plugin-opt=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\felip\AppData\Local\Temp\ccgiA5Zv.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTC_9dc0b.exe c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../crt2.o c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtbegin.o -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0 -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib -Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../.. --whole-archive CMakeFiles/cmTC_9dc0b.dir/objects.a --no-whole-archive --out-implib libcmTC_9dc0b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtend.o]
     arg [c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/collect2.exe] ==> ignore
     arg [-plugin] ==> ignore
     arg [c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/liblto_plugin-0.dll] ==> ignore
     arg [-plugin-opt=c:/bocop-2.2.1/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe] ==> ignore
-    arg [-plugin-opt=-fresolution=C:\Users\felip\AppData\Local\Temp\ccVEcKid.res] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\felip\AppData\Local\Temp\ccgiA5Zv.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -324,7 +324,7 @@ Parsed CXX implicit link information from above output:
     arg [-u] ==> ignore
     arg [___deregister_frame_info] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_00b60.exe] ==> ignore
+    arg [cmTC_9dc0b.exe] ==> ignore
     arg [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../crt2.o] ==> ignore
     arg [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/crtbegin.o] ==> ignore
     arg [-Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0] ==> dir [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0]
@@ -332,10 +332,10 @@ Parsed CXX implicit link information from above output:
     arg [-Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib] ==> dir [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib]
     arg [-Lc:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../..] ==> dir [c:/bocop-2.2.1/mingw/bin/../lib/gcc/mingw32/6.3.0/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles/cmTC_00b60.dir/objects.a] ==> ignore
+    arg [CMakeFiles/cmTC_9dc0b.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_00b60.dll.a] ==> ignore
+    arg [libcmTC_9dc0b.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
@@ -372,18 +372,18 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
-Change Dir: C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp
+Change Dir: D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_f18e8/fast"
-/usr/bin/make -f CMakeFiles/cmTC_f18e8.dir/build.make CMakeFiles/cmTC_f18e8.dir/build
-make[1]: Entering directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_f18e8.dir/feature_tests.cxx.obj
-/C/Bocop-2.2.1/MinGW/bin/g++.exe    -std=c++1z -o CMakeFiles/cmTC_f18e8.dir/feature_tests.cxx.obj -c /C/Bocop-2.2.1/examples/lab4/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_f18e8.exe
-"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_f18e8.dir/objects.a
-/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_f18e8.dir/objects.a @CMakeFiles/cmTC_f18e8.dir/objects1.rsp
-/C/Bocop-2.2.1/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_f18e8.dir/objects.a -Wl,--no-whole-archive  -o cmTC_f18e8.exe -Wl,--out-implib,libcmTC_f18e8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_f18e8.dir/linklibs.rsp
-make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_d97ac/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d97ac.dir/build.make CMakeFiles/cmTC_d97ac.dir/build
+make[1]: Entering directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d97ac.dir/feature_tests.cxx.obj
+/C/Bocop-2.2.1/MinGW/bin/g++.exe    -std=c++1z -o CMakeFiles/cmTC_d97ac.dir/feature_tests.cxx.obj -c /D/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_d97ac.exe
+"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_d97ac.dir/objects.a
+/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_d97ac.dir/objects.a @CMakeFiles/cmTC_d97ac.dir/objects1.rsp
+/C/Bocop-2.2.1/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_d97ac.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d97ac.exe -Wl,--out-implib,libcmTC_d97ac.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_d97ac.dir/linklibs.rsp
+make[1]: Leaving directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -446,18 +446,18 @@ make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeT
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp
+Change Dir: D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_2e57a/fast"
-/usr/bin/make -f CMakeFiles/cmTC_2e57a.dir/build.make CMakeFiles/cmTC_2e57a.dir/build
-make[1]: Entering directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_2e57a.dir/feature_tests.cxx.obj
-/C/Bocop-2.2.1/MinGW/bin/g++.exe    -std=c++14 -o CMakeFiles/cmTC_2e57a.dir/feature_tests.cxx.obj -c /C/Bocop-2.2.1/examples/lab4/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_2e57a.exe
-"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_2e57a.dir/objects.a
-/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_2e57a.dir/objects.a @CMakeFiles/cmTC_2e57a.dir/objects1.rsp
-/C/Bocop-2.2.1/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_2e57a.dir/objects.a -Wl,--no-whole-archive  -o cmTC_2e57a.exe -Wl,--out-implib,libcmTC_2e57a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_2e57a.dir/linklibs.rsp
-make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_1a760/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1a760.dir/build.make CMakeFiles/cmTC_1a760.dir/build
+make[1]: Entering directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1a760.dir/feature_tests.cxx.obj
+/C/Bocop-2.2.1/MinGW/bin/g++.exe    -std=c++14 -o CMakeFiles/cmTC_1a760.dir/feature_tests.cxx.obj -c /D/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_1a760.exe
+"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_1a760.dir/objects.a
+/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_1a760.dir/objects.a @CMakeFiles/cmTC_1a760.dir/objects1.rsp
+/C/Bocop-2.2.1/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_1a760.dir/objects.a -Wl,--no-whole-archive  -o cmTC_1a760.exe -Wl,--out-implib,libcmTC_1a760.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_1a760.dir/linklibs.rsp
+make[1]: Leaving directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -520,18 +520,18 @@ make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeT
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp
+Change Dir: D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_f7b5b/fast"
-/usr/bin/make -f CMakeFiles/cmTC_f7b5b.dir/build.make CMakeFiles/cmTC_f7b5b.dir/build
-make[1]: Entering directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_f7b5b.dir/feature_tests.cxx.obj
-/C/Bocop-2.2.1/MinGW/bin/g++.exe    -std=c++11 -o CMakeFiles/cmTC_f7b5b.dir/feature_tests.cxx.obj -c /C/Bocop-2.2.1/examples/lab4/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_f7b5b.exe
-"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_f7b5b.dir/objects.a
-/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_f7b5b.dir/objects.a @CMakeFiles/cmTC_f7b5b.dir/objects1.rsp
-/C/Bocop-2.2.1/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_f7b5b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_f7b5b.exe -Wl,--out-implib,libcmTC_f7b5b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_f7b5b.dir/linklibs.rsp
-make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_05379/fast"
+/usr/bin/make -f CMakeFiles/cmTC_05379.dir/build.make CMakeFiles/cmTC_05379.dir/build
+make[1]: Entering directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_05379.dir/feature_tests.cxx.obj
+/C/Bocop-2.2.1/MinGW/bin/g++.exe    -std=c++11 -o CMakeFiles/cmTC_05379.dir/feature_tests.cxx.obj -c /D/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_05379.exe
+"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_05379.dir/objects.a
+/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_05379.dir/objects.a @CMakeFiles/cmTC_05379.dir/objects1.rsp
+/C/Bocop-2.2.1/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_05379.dir/objects.a -Wl,--no-whole-archive  -o cmTC_05379.exe -Wl,--out-implib,libcmTC_05379.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_05379.dir/linklibs.rsp
+make[1]: Leaving directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -594,18 +594,18 @@ make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeT
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: C:/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp
+Change Dir: D:/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_5998d/fast"
-/usr/bin/make -f CMakeFiles/cmTC_5998d.dir/build.make CMakeFiles/cmTC_5998d.dir/build
-make[1]: Entering directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_5998d.dir/feature_tests.cxx.obj
-/C/Bocop-2.2.1/MinGW/bin/g++.exe    -std=c++98 -o CMakeFiles/cmTC_5998d.dir/feature_tests.cxx.obj -c /C/Bocop-2.2.1/examples/lab4/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_5998d.exe
-"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_5998d.dir/objects.a
-/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_5998d.dir/objects.a @CMakeFiles/cmTC_5998d.dir/objects1.rsp
-/C/Bocop-2.2.1/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_5998d.dir/objects.a -Wl,--no-whole-archive  -o cmTC_5998d.exe -Wl,--out-implib,libcmTC_5998d.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_5998d.dir/linklibs.rsp
-make[1]: Leaving directory `/c/Bocop-2.2.1/examples/lab4/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/Bocop-2.2.1/MinGW/msys/1.0/bin/make.exe" "cmTC_68b8e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_68b8e.dir/build.make CMakeFiles/cmTC_68b8e.dir/build
+make[1]: Entering directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_68b8e.dir/feature_tests.cxx.obj
+/C/Bocop-2.2.1/MinGW/bin/g++.exe    -std=c++98 -o CMakeFiles/cmTC_68b8e.dir/feature_tests.cxx.obj -c /D/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_68b8e.exe
+"/C/Program Files (x86)/CMake/bin/cmake.exe" -E remove -f CMakeFiles/cmTC_68b8e.dir/objects.a
+/C/Bocop-2.2.1/MinGW/bin/ar.exe cr CMakeFiles/cmTC_68b8e.dir/objects.a @CMakeFiles/cmTC_68b8e.dir/objects1.rsp
+/C/Bocop-2.2.1/MinGW/bin/g++.exe      -Wl,--whole-archive CMakeFiles/cmTC_68b8e.dir/objects.a -Wl,--no-whole-archive  -o cmTC_68b8e.exe -Wl,--out-implib,libcmTC_68b8e.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_68b8e.dir/linklibs.rsp
+make[1]: Leaving directory `/d/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers

@@ -4,15 +4,15 @@
 # Initial and final time :
 time.free string none
 time.initial double 0
-time.final double 10
+time.final double 100
 
 # Dimensions :
-state.dimension integer 3
+state.dimension integer 2
 control.dimension integer 1
 algebraic.dimension integer 0
 parameter.dimension integer 0
 constant.dimension integer 3
-boundarycond.dimension integer 3
+boundarycond.dimension integer 2
 constraint.dimension integer 0
 
 # Discretization :
@@ -41,11 +41,9 @@ paramid.dimension integer 0
 # Names :
 state.0 string y1
 state.1 string y2
-state.2 string z
 control.0 string u
 boundarycond.0 string y1(0)
 boundarycond.1 string y2(0)
-boundarycond.2 string z(0)
 constant.0 string Y1
 constant.1 string Y2
 constant.2 string c

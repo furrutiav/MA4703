@@ -7,13 +7,9 @@ set(CMAKE_DEPENDS_GENERATOR "MSYS Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "../../../CMakeLists.txt"
-  "../../../CMakeModules/BuildIPOPT.cmake"
-  "../../../CMakeModules/FindIPOPT.cmake"
-  "CMakeFiles/3.10.0-rc3/CMakeCCompiler.cmake"
-  "CMakeFiles/3.10.0-rc3/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.10.0-rc3/CMakeRCCompiler.cmake"
-  "CMakeFiles/3.10.0-rc3/CMakeSystem.cmake"
+  "C:/Bocop-2.2.1/CMakeLists.txt"
+  "C:/Bocop-2.2.1/CMakeModules/BuildIPOPT.cmake"
+  "C:/Bocop-2.2.1/CMakeModules/FindIPOPT.cmake"
   "C:/Program Files (x86)/CMake/share/cmake-3.10/Modules/CMakeCInformation.cmake"
   "C:/Program Files (x86)/CMake/share/cmake-3.10/Modules/CMakeCXXInformation.cmake"
   "C:/Program Files (x86)/CMake/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake"
@@ -34,6 +30,10 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files (x86)/CMake/share/cmake-3.10/Modules/Platform/Windows-windres.cmake"
   "C:/Program Files (x86)/CMake/share/cmake-3.10/Modules/Platform/Windows.cmake"
   "C:/Program Files (x86)/CMake/share/cmake-3.10/Modules/Platform/WindowsPaths.cmake"
+  "CMakeFiles/3.10.0-rc3/CMakeCCompiler.cmake"
+  "CMakeFiles/3.10.0-rc3/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.10.0-rc3/CMakeRCCompiler.cmake"
+  "CMakeFiles/3.10.0-rc3/CMakeSystem.cmake"
   )
 
 # The corresponding makefile is:

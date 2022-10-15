@@ -4,7 +4,7 @@
 # Initial and final time :
 time.free string none
 time.initial double 0
-time.final double 10
+time.final double 100
 
 # Dimensions :
 state.dimension integer 3

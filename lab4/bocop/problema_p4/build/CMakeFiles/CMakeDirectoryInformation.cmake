@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "C:/Bocop-2.2.1")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/Bocop-2.2.1/examples/lab4/build")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "D:/github/MA4703/lab4/bocop/problema_p4/build")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

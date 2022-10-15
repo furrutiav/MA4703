@@ -20,7 +20,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CORE.dir/core/sources/interpolation/BocopInterpolation.cpp.obj"
   "CMakeFiles/CORE.dir/core/sources/interpolation/BocopLinearInterpolation.cpp.obj"
   "CMakeFiles/CORE.dir/core/sources/interpolation/BocopSplinesInterpolation.cpp.obj"
-  "CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj"
+  "CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p4/dependencies.cpp.obj"
   "CMakeFiles/CORE.dir/core/sources/optionalfunctions/preProcessing.cpp.obj"
   "CMakeFiles/CORE.dir/core/sources/optionalfunctions/postProcessing.cpp.obj"
   "lib/libCORE.pdb"

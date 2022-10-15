@@ -51,7 +51,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /C/Bocop-2.2.1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /C/Bocop-2.2.1/examples/lab4/build
+CMAKE_BINARY_DIR = /D/github/MA4703/lab4/bocop/problema_p5/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /C/Bocop-2.2.1/examples/lab4/build/CMakeFiles /C/Bocop-2.2.1/examples/lab4/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /D/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles /D/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /C/Bocop-2.2.1/examples/lab4/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /D/github/MA4703/lab4/bocop/problema_p5/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -135,6 +135,33 @@ bocop: cmake_check_build_system
 bocop/fast:
 	$(MAKE) -f CMakeFiles/bocop.dir/build.make CMakeFiles/bocop.dir/build
 .PHONY : bocop/fast
+
+D_/github/MA4703/lab4/bocop/problema_p5/dependencies.obj: D_/github/MA4703/lab4/bocop/problema_p5/dependencies.cpp.obj
+
+.PHONY : D_/github/MA4703/lab4/bocop/problema_p5/dependencies.obj
+
+# target to build an object file
+D_/github/MA4703/lab4/bocop/problema_p5/dependencies.cpp.obj:
+	$(MAKE) -f CMakeFiles/CORE.dir/build.make CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p5/dependencies.cpp.obj
+.PHONY : D_/github/MA4703/lab4/bocop/problema_p5/dependencies.cpp.obj
+
+D_/github/MA4703/lab4/bocop/problema_p5/dependencies.i: D_/github/MA4703/lab4/bocop/problema_p5/dependencies.cpp.i
+
+.PHONY : D_/github/MA4703/lab4/bocop/problema_p5/dependencies.i
+
+# target to preprocess a source file
+D_/github/MA4703/lab4/bocop/problema_p5/dependencies.cpp.i:
+	$(MAKE) -f CMakeFiles/CORE.dir/build.make CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p5/dependencies.cpp.i
+.PHONY : D_/github/MA4703/lab4/bocop/problema_p5/dependencies.cpp.i
+
+D_/github/MA4703/lab4/bocop/problema_p5/dependencies.s: D_/github/MA4703/lab4/bocop/problema_p5/dependencies.cpp.s
+
+.PHONY : D_/github/MA4703/lab4/bocop/problema_p5/dependencies.s
+
+# target to generate assembly for a file
+D_/github/MA4703/lab4/bocop/problema_p5/dependencies.cpp.s:
+	$(MAKE) -f CMakeFiles/CORE.dir/build.make CMakeFiles/CORE.dir/D_/github/MA4703/lab4/bocop/problema_p5/dependencies.cpp.s
+.PHONY : D_/github/MA4703/lab4/bocop/problema_p5/dependencies.cpp.s
 
 core/main.obj: core/main.cpp.obj
 
@@ -784,33 +811,6 @@ core/sources/startingpoint/StartingPoint.cpp.s:
 	$(MAKE) -f CMakeFiles/CORE.dir/build.make CMakeFiles/CORE.dir/core/sources/startingpoint/StartingPoint.cpp.s
 .PHONY : core/sources/startingpoint/StartingPoint.cpp.s
 
-examples/lab4/dependencies.obj: examples/lab4/dependencies.cpp.obj
-
-.PHONY : examples/lab4/dependencies.obj
-
-# target to build an object file
-examples/lab4/dependencies.cpp.obj:
-	$(MAKE) -f CMakeFiles/CORE.dir/build.make CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.obj
-.PHONY : examples/lab4/dependencies.cpp.obj
-
-examples/lab4/dependencies.i: examples/lab4/dependencies.cpp.i
-
-.PHONY : examples/lab4/dependencies.i
-
-# target to preprocess a source file
-examples/lab4/dependencies.cpp.i:
-	$(MAKE) -f CMakeFiles/CORE.dir/build.make CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.i
-.PHONY : examples/lab4/dependencies.cpp.i
-
-examples/lab4/dependencies.s: examples/lab4/dependencies.cpp.s
-
-.PHONY : examples/lab4/dependencies.s
-
-# target to generate assembly for a file
-examples/lab4/dependencies.cpp.s:
-	$(MAKE) -f CMakeFiles/CORE.dir/build.make CMakeFiles/CORE.dir/examples/lab4/dependencies.cpp.s
-.PHONY : examples/lab4/dependencies.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -821,6 +821,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... bocop"
 	@echo "... rebuild_cache"
+	@echo "... D_/github/MA4703/lab4/bocop/problema_p5/dependencies.obj"
+	@echo "... D_/github/MA4703/lab4/bocop/problema_p5/dependencies.i"
+	@echo "... D_/github/MA4703/lab4/bocop/problema_p5/dependencies.s"
 	@echo "... core/main.obj"
 	@echo "... core/main.i"
 	@echo "... core/main.s"
@@ -893,9 +896,6 @@ help:
 	@echo "... core/sources/startingpoint/StartingPoint.obj"
 	@echo "... core/sources/startingpoint/StartingPoint.i"
 	@echo "... core/sources/startingpoint/StartingPoint.s"
-	@echo "... examples/lab4/dependencies.obj"
-	@echo "... examples/lab4/dependencies.i"
-	@echo "... examples/lab4/dependencies.s"
 .PHONY : help
 
 

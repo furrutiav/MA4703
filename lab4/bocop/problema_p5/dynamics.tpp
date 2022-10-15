@@ -33,7 +33,6 @@
 	// Please give a function or a value for the dynamics of each state variable
 	state_dynamics[0] = state[1]-constants[1]-control[0];
 	state_dynamics[1] = -state[0]+constants[0];
-	state_dynamics[2] = control[0]*control[0];
 }
 
 

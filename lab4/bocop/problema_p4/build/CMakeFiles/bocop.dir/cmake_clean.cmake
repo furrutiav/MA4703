@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/bocop.dir/core/main.cpp.obj"
-  "../bocop.pdb"
-  "../bocop.exe"
-  "../bocop.exe.manifest"
-  "../libbocop.dll.a"
+  "D:/github/MA4703/lab4/bocop/problema_p4/bocop.pdb"
+  "D:/github/MA4703/lab4/bocop/problema_p4/bocop.exe"
+  "D:/github/MA4703/lab4/bocop/problema_p4/bocop.exe.manifest"
+  "D:/github/MA4703/lab4/bocop/problema_p4/libbocop.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
