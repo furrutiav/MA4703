@@ -1,0 +1,4 @@
+C:/Users/felip/Documents/GitHub/MA4703/lab5/Lab5_presencial_bocop/build/CMakeFiles/CORE.dir
+C:/Users/felip/Documents/GitHub/MA4703/lab5/Lab5_presencial_bocop/build/CMakeFiles/edit_cache.dir
+C:/Users/felip/Documents/GitHub/MA4703/lab5/Lab5_presencial_bocop/build/CMakeFiles/bocop.dir
+C:/Users/felip/Documents/GitHub/MA4703/lab5/Lab5_presencial_bocop/build/CMakeFiles/rebuild_cache.dir
